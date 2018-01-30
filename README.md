@@ -1,5 +1,6 @@
 ### Welcome to the decoderfile wiki!
-This little class was create when I want watched a film with subtitres, 
+
+>This little class was create when I want watched a film with subtitres, 
 but encoder format file with not 'UTF-8', and file open with artefacts. 
 When I write this python class from decoder file.
 
