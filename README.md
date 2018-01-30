@@ -8,6 +8,11 @@ When I write this python class from decoder file.
 Тогда я написал этот класс на python, чтобы можно было легко открыть файл в нужной кодировке.
 
 
-### Run Comand-line Tools
+### Run Comand-line Tools (командная строка)
 
 `% decoder <filename>`
+
+### 
+Этот класс для декодирования файла использует chardet. О этом пакете можно подробно узнать здесь
+[chardet](https://github.com/chardet/chardet).
+
